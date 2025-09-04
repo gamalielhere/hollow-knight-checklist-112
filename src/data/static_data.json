@@ -1,0 +1,93 @@
+{
+  "section": [
+    {
+      "title": "Bosses",
+      "items": [
+        {
+          "name": "Broken Vessel",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Broken_Vessel",
+          "how-to-find": "Broken Vessel can be found near the far west corner of the Ancient Basin, guarding the Monarch Wings Ability."
+        },
+        {
+          "name": "Brooding Mawlek",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Brooding_Mawlek",
+          "how-to-find": "The Brooding Mawlek in the Forgotten Crossroads is found beyond a wall jump section in a blocked room to the left of the vertical shaft filled with Gruzzers and Tiktiks."
+        },
+        {
+          "name": "The Collector",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/The_Collector",
+          "how-to-find": "The Collector is locked in the Tower of Love, which can only be accessed using the Love Key, found in the Queen's Gardens. The Tower can only be entered from the deep lift shaft between Kingdom's Edge and the City of Tears."
+        },
+        {
+          "name": "Dung Defender",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Dung_Defender",
+          "how-to-find": "Dung Defender is located in the east part of the Royal Waterways."
+        },
+        {
+          "name": "False Knight",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/False_Knight",
+          "how-to-find": "False Knight is located in the centre of the Forgotten Crossroads."
+        },
+        {
+          "name": "Gruz Mother",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Gruz_Mother",
+          "how-to-find": "Gruz Mother can be found in the Forgotten Crossroads, sleeping peacefully until disturbed."
+        },
+        {
+          "name": "Hornet Protector",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Hornet_Protector",
+          "how-to-find": "Hornet Protector can be fought in Greenpath."
+        },
+        {
+          "name": "Hornet Sentinel",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Hornet_Sentinel",
+          "how-to-find": "Hornet Sentinel can be fought in the Kingdom's Edge."
+        },
+        {
+          "name": "Mantis Lords",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Mantis_Lords",
+          "how-to-find": "The area that the Mantis Lords are located in can be accessed after obtaining the Mantis Claw and activating a lever in the northeast part of the Mantis Village."
+        },
+        {
+          "name": "Nosk",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Nosk",
+          "how-to-find": "A breakable wall in the room directly west of the Deepnest Hot Spring reveals a secret section containing a Grub. Breaking another wall behind the Grub leads to the tunnels and into Nosk's lair."
+        },
+        {
+          "name": "Soul Master",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Soul_Master",
+          "how-to-find": "Soul Master is located in the upper part of Soul Sanctum."
+        },
+        {
+          "name": "Traitor Lord",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Traitor_Lord",
+          "how-to-find": "The Traitor Lord is located in the upper section of the Queen's Gardens, beyond a Shade Gate."
+        },
+        {
+          "name": "Uumuu",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Uumuu",
+          "how-to-find": "Uumuu is located in the centre of the Teacher's Archives."
+        },
+        {
+          "name": "Watcher Knight",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Watcher_Knight",
+          "how-to-find": "The Watcher Knights are located near the top of Watcher's Spire."
+        }
+      ]
+    }
+  ]
+}
