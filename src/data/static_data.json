@@ -1,7 +1,8 @@
 {
-  "section": [
+  "sections": [
     {
       "title": "Bosses",
+      "total": 14,
       "items": [
         {
           "name": "Broken Vessel",
@@ -88,6 +89,68 @@
           "how-to-find": "The Watcher Knights are located near the top of Watcher's Spire."
         }
       ]
+    },
+    {
+      "title": "Charms",
+      "total": 36,
+      "items": [
+        {
+          "name": "Wayward Compass",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Wayward_Compass",
+          "how-to-find": "Bought from Iselda in Dirtmouth for 220 after the first encounter with Cornifer. "
+        }
+      ]
+    },
+    {
+      "title": "Colosseum Of Fools",
+      "total": 3,
+      "items": []
+    },
+    {
+      "title": "Dreamers",
+      "total": 3,
+      "items": []
+    },
+    {
+      "title": "Dream Nail and Essence",
+      "total": 3,
+      "items": []
+    },
+    {
+      "title": "Equipment",
+      "total": 14,
+      "items": []
+    },
+    {
+      "title": "Mask Shards",
+      "total": 4,
+      "items": []
+    },
+    {
+      "title": "Nail Arts",
+      "total": 3,
+      "items": []
+    },
+    {
+      "title": "Nail Upgrades",
+      "total": 4,
+      "items": []
+    },
+    {
+      "title": "Spells",
+      "total": 6,
+      "items": []
+    },
+    {
+      "title": "Vessel Fragments",
+      "total": 3,
+      "items": []
+    },
+    {
+      "title": "Warrior Dreams",
+      "total": 7,
+      "items": []
     }
   ]
 }

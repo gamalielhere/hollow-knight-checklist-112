@@ -22,9 +22,19 @@ body {
     );
 }
 
+
 @media screen and (max-width: 400px) {
   #root {
     padding: 0;
     padding-top: 2rem;
   }
+}
+
+h1 {
+  font-family: 'Roboto';
+  color: white;
+}
+
+.mainContent {
+  padding-top: 30px;
 }
