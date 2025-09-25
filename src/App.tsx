@@ -1,6 +1,7 @@
 import hkLogo from '@/assets/hk-white.png'
 import AccordionComponent from '@/components/AccordionComponent.tsx'
 import { sections } from '@/data/static_data.json'
+import {Grid} from "@mui/material"
 
 function App() {
   return (
@@ -13,11 +14,13 @@ function App() {
           <h1>
             112% Completion Guide
           </h1>
-          <div className="mainContent">
+          <Grid container spacing={3}>
           {sections.map((section) =>
-            <AccordionComponent title={section.title} items={section.items} key={section.title}/>
+            <Grid size={6}>
+              <AccordionComponent title={section.title} items={section.items} key={section.title}/>
+            </Grid>
           )}
-          </div>
+          </Grid>
         </div>
         
       </main>

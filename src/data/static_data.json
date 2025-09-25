@@ -98,59 +98,537 @@
           "name": "Wayward Compass",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Wayward_Compass",
-          "how-to-find": "Bought from Iselda in Dirtmouth for 220 after the first encounter with Cornifer. "
+          "how-to-find": "Bought from Iselda in Dirtmouth for 220 after the first encounter with Cornifer."
+        },
+        {
+          "name": "Gathering Swarm",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Gathering_Swarm",
+          "how-to-find": "Bought from Sly in Dirtmouth for 300."
+        },
+        {
+          "name": "Stalwart Shell",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Stalwart_Shell",
+          "how-to-find": "Bought from Sly in Dirtmouth for 200."
+        },
+        {
+          "name": "Soul Catcher",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Soul_Catcher",
+          "how-to-find": "Found at the very end of the Ancestral Mound, after killing the Elder Baldur."
+        },
+        {
+          "name": "Shaman Stone",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Shaman_Stone",
+          "how-to-find": "Bought from Salubra for 220 in the Forgotten Crossroads."
+        },
+        {
+          "name": "Soul Eater",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Soul_Eater",
+          "how-to-find": "Found in the Resting Grounds."
+        },
+        {
+          "name": "Dashmaster",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Dashmaster",
+          "how-to-find": "Found beneath a statue below the Mantis Village in the Fungal Wastes, near the entrance to the Royal Waterways."
+        },
+        {
+          "name": "Thorns of Agony",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Thorns_of_Agony",
+          "how-to-find": "Found in Greenpath in a maze of thorns featuring Charged Lumaflies."
+        },
+        {
+          "name": "Fury of the Fallen",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Fury_of_the_Fallen",
+          "how-to-find": "Found in King's Pass, the starting cavern, behind a spike-filled cavern."
+        },
+        {
+          "name": "Quick Focus",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Quick_Focus",
+          "how-to-find": "Bought from Salubra in the Forgotten Crossroads for 800."
+        },
+        {
+          "name": "Deep Focus",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Deep_Focus",
+          "how-to-find": "Found in Crystal Peak in a hidden cave made entirely of crystals."
+        },
+        {
+          "name": "Baldur Shell",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Baldur_Shell",
+          "how-to-find": "This Charm is located in the southwest portion of the Howling Cliffs."
+        },
+        {
+          "name": "Fragile Heart / Unbreakable Heart",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Fragile_Heart",
+          "how-to-find": "Bought from Leg Eater for 350 in the Fungal Wastes."
+        },
+        {
+          "name": "Fragile Greed / Unbreakable Greed",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Fragile_Greed",
+          "how-to-find": "Bought from Leg Eater for 250 in the Fungal Wastes."
+        },
+        {
+          "name": "Fragile Strength / Unbreakable Strength",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Fragile_Strength",
+          "how-to-find": "Bought from Leg Eater for 600 in the Fungal Wastes."
+        },
+        {
+          "name": "Spell Twister",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Spell_Twister",
+          "how-to-find": "Found in a hidden room in the Soul Sanctum."
+        },
+        {
+          "name": "Steady Body",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Steady_Body",
+          "how-to-find": "Bought from Salubra in the Forgotten Crossroads for 120."
+        },
+        {
+          "name": "Heavy Blow",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Heavy_Blow",
+          "how-to-find": "Bought from Sly in Dirtmouth for 350 after giving him the Shopkeeper's Key."
+        },
+        {
+          "name": "Quick Slash",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Quick_Slash",
+          "how-to-find": "Found at the very east of Kingdom's Edge guarded by a horde of Hivelings."
+        },
+        {
+          "name": "Longnail",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Longnail",
+          "how-to-find": "Bought from Salubra in the Forgotten Crossroads for 300."
+        },
+        {
+          "name": "Mark of Pride",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Mark_of_Pride",
+          "how-to-find": "Reward for defeating the Mantis Lords in the Fungal Wastes."
+        },
+        {
+          "name": "Flukenest",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Flukenest",
+          "how-to-find": "Found in the Royal Waterways, in the arena of the Flukemarm."
+        },
+        {
+          "name": "Defender's Crest",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Defender%27s_Crest",
+          "how-to-find": "Reward for defeating Dung Defender in the Royal Waterways."
+        },
+        {
+          "name": "Glowing Womb",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Glowing_Womb",
+          "how-to-find": "Found in the Forgotten Crossroads, in a small hidden room near the False Knight's arena."
+        },
+        {
+          "name": "Lifeblood Heart",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Lifeblood_Heart",
+          "how-to-find": "Bought from Salubra for 250 in the Forgotten Crossroads."
+        },
+        {
+          "name": "Lifeblood Core",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Lifeblood_Core",
+          "how-to-find": "Found in the Abyss, behind a door that requires 15 Lifeblood Masks."
+        },
+        {
+          "name": "Joni's Blessing",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Joni%27s_Blessing",
+          "how-to-find": "Found in Joni's Repose in Howling Cliffs."
+        },
+        {
+          "name": "Grubsong",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Grubsong",
+          "how-to-find": "Reward for rescuing 10 Grubs."
+        },
+        {
+          "name": "Grubberfly's Elegy",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Grubberfly%27s_Elegy",
+          "how-to-find": "Reward for rescuing all 46 Grubs."
+        },
+        {
+          "name": "Hiveblood",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Hiveblood",
+          "how-to-find": "Found in the Hive, in a room guarded by the Hive Knight."
+        },
+        {
+          "name": "Spore Shroom",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Spore_Shroom",
+          "how-to-find": "Found in the Fungal Wastes near the Queen's Gardens entrance."
+        },
+        {
+          "name": "Sharp Shadow",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Sharp_Shadow",
+          "how-to-find": "Found in Deepnest in a hidden area filled with spikes."
+        },
+        {
+          "name": "Shape of Unn",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Shape_of_Unn",
+          "how-to-find": "Obtained from Unn herself in Greenpath by having 1 Simple Key and using the Lake of Unn bench."
+        },
+        {
+          "name": "Nailmaster's Glory",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Nailmaster%27s_Glory",
+          "how-to-find": "Reward from Sly after learning all three Nail Arts."
+        },
+        {
+          "name": "Dream Wielder",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Dream_Wielder",
+          "how-to-find": "Given by the Seer after collecting 500 Essence."
+        },
+        {
+          "name": "Kingsoul / Void Heart",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Kingsoul",
+          "how-to-find": "Formed by combining the two halves from White Palace and Queen's Gardens; later becomes Void Heart."
         }
       ]
     },
     {
       "title": "Colosseum Of Fools",
       "total": 3,
-      "items": []
+      "items": [
+        {
+          "name": "Trial of the Warrior",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Trial_of_the_Warrior",
+          "how-to-find": ""
+        },
+        {
+          "name": "Trial of the Conqueror",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Trial_of_the_Conqueror",
+          "how-to-find": ""
+        },
+        {
+          "name": "Trial of the Fool",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Trial_of_the_Fool",
+          "how-to-find": ""
+        }
+      ]
     },
     {
       "title": "Dreamers",
       "total": 3,
-      "items": []
+      "items": [
+        {
+          "name": "Herrah the Beast",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Herrah_the_Beast",
+          "how-to-find": ""
+        },
+        {
+          "name": "Lurien the Watcher",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Lurien_the_Watcher",
+          "how-to-find": ""
+        },
+        {
+          "name": "Monomon the Teacher",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Monomon_the_Teacher",
+          "how-to-find": ""
+        }
+      ]
     },
     {
       "title": "Dream Nail and Essence",
       "total": 3,
-      "items": []
+      "items": [
+        {
+          "name": "Dream Nail acquired",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Dream_Nail",
+          "how-to-find": ""
+        },
+        {
+          "name": "Awakening the Dream Nail",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Dream_Nail",
+          "how-to-find": ""
+        },
+        {
+          "name": "Hear the Seer's final words",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Seer",
+          "how-to-find": ""
+        }
+      ]
     },
     {
       "title": "Equipment",
       "total": 14,
-      "items": []
+      "items": [
+        {
+          "name": "Crystal Heart",
+          "percent": 2,
+          "link": "https://hollowknight.wiki/w/Crystal_Heart",
+          "how-to-find": ""
+        },
+        {
+          "name": "Isma's Tear",
+          "percent": 2,
+          "link": "https://hollowknight.wiki/w/Isma's_Tear",
+          "how-to-find": ""
+        },
+        {
+          "name": "King's Brand",
+          "percent": 2,
+          "link": "https://hollowknight.wiki/w/King's_Brand",
+          "how-to-find": ""
+        },
+        {
+          "name": "Mantis Claw",
+          "percent": 2,
+          "link": "https://hollowknight.wiki/w/Mantis_Claw",
+          "how-to-find": ""
+        },
+        {
+          "name": "Monarch Wings",
+          "percent": 2,
+          "link": "https://hollowknight.wiki/w/Monarch_Wings",
+          "how-to-find": ""
+        },
+        {
+          "name": "Mothwing Cloak",
+          "percent": 2,
+          "link": "https://hollowknight.wiki/w/Mothwing_Cloak",
+          "how-to-find": ""
+        },
+        {
+          "name": "Shade Cloak",
+          "percent": 2,
+          "link": "https://hollowknight.wiki/w/Shade_Cloak",
+          "how-to-find": ""
+        }
+      ]
     },
     {
       "title": "Mask Shards",
       "total": 4,
-      "items": []
+      "items": [
+        {
+          "name": "Mask Upgrade 1",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Mask_Shard",
+          "how-to-find": ""
+        },
+        {
+          "name": "Mask Upgrade 2",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Mask_Shard",
+          "how-to-find": ""
+        },
+        {
+          "name": "Mask Upgrade 3",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Mask_Shard",
+          "how-to-find": ""
+        },
+        {
+          "name": "Mask Upgrade 4",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Mask_Shard",
+          "how-to-find": ""
+        }
+      ]
     },
     {
       "title": "Nail Arts",
       "total": 3,
-      "items": []
+      "items": [
+        {
+          "name": "Cyclone Slash",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Cyclone_Slash",
+          "how-to-find": ""
+        },
+        {
+          "name": "Dash Slash",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Dash_Slash",
+          "how-to-find": ""
+        },
+        {
+          "name": "Great Slash",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Great_Slash",
+          "how-to-find": ""
+        }
+      ]
     },
     {
       "title": "Nail Upgrades",
       "total": 4,
-      "items": []
+      "items": [
+        {
+          "name": "Sharpened Nail",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Nail",
+          "how-to-find": ""
+        },
+        {
+          "name": "Channelled Nail",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Nail",
+          "how-to-find": ""
+        },
+        {
+          "name": "Coiled Nail",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Nail",
+          "how-to-find": ""
+        },
+        {
+          "name": "Pure Nail",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Nail",
+          "how-to-find": ""
+        }
+      ]
     },
     {
       "title": "Spells",
       "total": 6,
-      "items": []
+      "items": [
+        {
+          "name": "Desolate Dive",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Desolate_Dive",
+          "how-to-find": ""
+        },
+        {
+          "name": "Descending Dark",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Descending_Dark",
+          "how-to-find": ""
+        },
+        {
+          "name": "Howling Wraiths",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Howling_Wraiths",
+          "how-to-find": ""
+        },
+        {
+          "name": "Abyss Shriek",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Abyss_Shriek",
+          "how-to-find": ""
+        },
+        {
+          "name": "Vengeful Spirit",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Vengeful_Spirit",
+          "how-to-find": ""
+        },
+        {
+          "name": "Shade Soul",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Shade_Soul",
+          "how-to-find": ""
+        }
+      ]
     },
     {
       "title": "Vessel Fragments",
       "total": 3,
-      "items": []
+      "items": [
+        {
+          "name": "Vessel Upgrade 1",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Vessel_Fragment",
+          "how-to-find": ""
+        },
+        {
+          "name": "Vessel Upgrade 2",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Vessel_Fragment",
+          "how-to-find": ""
+        },
+        {
+          "name": "Vessel Upgrade 3",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Vessel_Fragment",
+          "how-to-find": ""
+        }
+      ]
     },
     {
       "title": "Warrior Dreams",
       "total": 7,
-      "items": []
+      "items": [
+        {
+          "name": "Elder Hu",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Elder_Hu",
+          "how-to-find": ""
+        },
+        {
+          "name": "Galien",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Galien",
+          "how-to-find": ""
+        },
+        {
+          "name": "Gorb",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Gorb",
+          "how-to-find": ""
+        },
+        {
+          "name": "Markoth",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Markoth",
+          "how-to-find": ""
+        },
+        {
+          "name": "Marmu",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Marmu",
+          "how-to-find": ""
+        },
+        {
+          "name": "No Eyes",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/No_Eyes",
+          "how-to-find": ""
+        },
+        {
+          "name": "Xero",
+          "percent": 1,
+          "link": "https://hollowknight.wiki/w/Xero",
+          "how-to-find": ""
+        }
+      ]
     }
   ]
 }

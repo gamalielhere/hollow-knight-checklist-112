@@ -14,7 +14,7 @@ import type { AccordionProp, AccordionCheckbox } from "@/types.d.ts";
 
 
 const AccordionOnlyHeader: React.Fc<AccordionCheckbox> = ({title, items}) => {
-  const [expanded, setExpanded] = useState(false);
+  const [expanded, setExpanded] = useState(true);
   const [checked, setChecked] = useState(false);
 
   if(!items && items.length <= 0) {
@@ -33,6 +33,9 @@ const AccordionOnlyHeader: React.Fc<AccordionCheckbox> = ({title, items}) => {
         >
           <Box sx={{ display: "flex", justifyContent: "start" }}>
             <FormControlLabel
+              onClick={(e) => e.stopPropagation()}
+              onFocus={(e) => e.stopPropagation()}
+              
               control={
                 <Checkbox
                   checked={checked}
@@ -62,7 +65,7 @@ const AccordionComponent: React.Fc<AccordionProp> = ({items = [], title}) => {
   }
 
   return (
-    <Box sx={{maxWidth: 350, margin: '0 auto'}}>
+    <Box sx={{ margin: '0 auto' }}>
       <AccordionOnlyHeader title={title} items={items} />
     </Box>
   );
