@@ -320,19 +320,19 @@
           "name": "Trial of the Warrior",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Trial_of_the_Warrior",
-          "how-to-find": ""
+          "how-to-find": "Available in the Colosseum of Fools; requires 100 Geo to open. First clear rewards a Charm Notch and Geo."
         },
         {
           "name": "Trial of the Conqueror",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Trial_of_the_Conqueror",
-          "how-to-find": ""
+          "how-to-find": "Second trial in the Colosseum of Fools; requires completing Trial of the Warrior and 450 Geo to open. First clear rewards Pale Ore and Geo."
         },
         {
           "name": "Trial of the Fool",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Trial_of_the_Fool",
-          "how-to-find": ""
+          "how-to-find": "Third trial in the Colosseum of Fools; requires completing Trial of the Conqueror and 800 Geo to open. Rewards Geo and achievements on clear."
         }
       ]
     },
@@ -344,19 +344,19 @@
           "name": "Herrah the Beast",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Herrah_the_Beast",
-          "how-to-find": ""
+          "how-to-find": "Herrah's physical body is located in the Beast's Den in Deepnest."
         },
         {
           "name": "Lurien the Watcher",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Lurien_the_Watcher",
-          "how-to-find": ""
+          "how-to-find": "Lurien's body is in Watcher's Spire in the City of Tears; defeat the Watcher Knights to reach him."
         },
         {
           "name": "Monomon the Teacher",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Monomon_the_Teacher",
-          "how-to-find": ""
+          "how-to-find": "Monomon's body is in the Teacher's Archives in Fog Canyon; Uumuu must be defeated to reach her."
         }
       ]
     },
@@ -368,19 +368,19 @@
           "name": "Dream Nail acquired",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Dream_Nail",
-          "how-to-find": ""
+          "how-to-find": "Obtained by inspecting the Dreamers' memorial in the Resting Grounds (a Moth gives the Dream Nail)."
         },
         {
           "name": "Awakening the Dream Nail",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Dream_Nail",
-          "how-to-find": ""
+          "how-to-find": "Awoken after collecting 1800 Essence and returning to the Seer in the Resting Grounds."
         },
         {
           "name": "Hear the Seer's final words",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Seer",
-          "how-to-find": ""
+          "how-to-find": "Return to the Seer in the Resting Grounds after collecting Essence rewards (up to 2400 Essence) to hear the Seer's final words."
         }
       ]
     },
@@ -392,43 +392,43 @@
           "name": "Crystal Heart",
           "percent": 2,
           "link": "https://hollowknight.wiki/w/Crystal_Heart",
-          "how-to-find": ""
+          "how-to-find": "Found in Crystal Peak at the end of a platforming segment; requires Mantis Claw and Mothwing Cloak to reach."
         },
         {
           "name": "Isma's Tear",
           "percent": 2,
           "link": "https://hollowknight.wiki/w/Isma's_Tear",
-          "how-to-find": ""
+          "how-to-find": "Located in Isma's Grove (Royal Waterways); access requires Crystal Heart and defeating Dung Defender (or progressing to that region)."
         },
         {
           "name": "King's Brand",
           "percent": 2,
           "link": "https://hollowknight.wiki/w/King's_Brand",
-          "how-to-find": ""
+          "how-to-find": "Found in the Cast-Off Shell in Kingdom's Edge, guarded by Hornet; normally requires Monarch Wings (or early nail-bounce skips) to reach."
         },
         {
           "name": "Mantis Claw",
           "percent": 2,
           "link": "https://hollowknight.wiki/w/Mantis_Claw",
-          "how-to-find": ""
+          "how-to-find": "Located in the Mantis Village (Fungal Wastes)."
         },
         {
           "name": "Monarch Wings",
           "percent": 2,
           "link": "https://hollowknight.wiki/w/Monarch_Wings",
-          "how-to-find": ""
+          "how-to-find": "Found in the Ancient Basin just after the Broken Vessel boss fight; Crystal Heart is required for some approaches."
         },
         {
           "name": "Mothwing Cloak",
           "percent": 2,
           "link": "https://hollowknight.wiki/w/Mothwing_Cloak",
-          "how-to-find": ""
+          "how-to-find": "Found on a Vessel's body after defeating Hornet in Greenpath."
         },
         {
           "name": "Shade Cloak",
           "percent": 2,
           "link": "https://hollowknight.wiki/w/Shade_Cloak",
-          "how-to-find": ""
+          "how-to-find": "Located in the Abyss (far east); activate the lighthouse to suppress the Void Tendrils, then stand in the Void fountain to obtain it."
         }
       ]
     },
@@ -440,25 +440,25 @@
           "name": "Mask Upgrade 1",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Mask_Shard",
-          "how-to-find": ""
+          "how-to-find": "Mask shards are found across Hallownest in multiple locations and as rewards; see the Mask Shard page for per-shard locations."
         },
         {
           "name": "Mask Upgrade 2",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Mask_Shard",
-          "how-to-find": ""
+          "how-to-find": "Mask shards are found across Hallownest in multiple locations and as rewards; see the Mask Shard page for per-shard locations."
         },
         {
           "name": "Mask Upgrade 3",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Mask_Shard",
-          "how-to-find": ""
+          "how-to-find": "Mask shards are found across Hallownest in multiple locations and as rewards; see the Mask Shard page for per-shard locations."
         },
         {
           "name": "Mask Upgrade 4",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Mask_Shard",
-          "how-to-find": ""
+          "how-to-find": "Mask shards are found across Hallownest in multiple locations and as rewards; see the Mask Shard page for per-shard locations."
         }
       ]
     },
@@ -470,19 +470,19 @@
           "name": "Cyclone Slash",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Cyclone_Slash",
-          "how-to-find": ""
+          "how-to-find": "Taught by Nailmaster Mato in the Howling Cliffs."
         },
         {
           "name": "Dash Slash",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Dash_Slash",
-          "how-to-find": ""
+          "how-to-find": "Taught by Nailmaster Oro in Kingdom's Edge (can be purchased from Oro)."
         },
         {
           "name": "Great Slash",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Great_Slash",
-          "how-to-find": ""
+          "how-to-find": "Taught by Nailmaster Sheo in Greenpath; requires Monarch Wings or Crystal Heart to reach."
         }
       ]
     },
@@ -494,25 +494,25 @@
           "name": "Sharpened Nail",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Nail",
-          "how-to-find": ""
+          "how-to-find": "Nail upgrades are purchased from the Nailsmith using Geo and Pale Ore; see the Nail page for exact costs per upgrade."
         },
         {
           "name": "Channelled Nail",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Nail",
-          "how-to-find": ""
+          "how-to-find": "Nail upgrades are purchased from the Nailsmith using Geo and Pale Ore; see the Nail page for exact costs per upgrade."
         },
         {
           "name": "Coiled Nail",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Nail",
-          "how-to-find": ""
+          "how-to-find": "Nail upgrades are purchased from the Nailsmith using Geo and Pale Ore; see the Nail page for exact costs per upgrade."
         },
         {
           "name": "Pure Nail",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Nail",
-          "how-to-find": ""
+          "how-to-find": "Nail upgrades are purchased from the Nailsmith using Geo and Pale Ore; see the Nail page for exact costs per upgrade."
         }
       ]
     },
@@ -524,37 +524,37 @@
           "name": "Desolate Dive",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Desolate_Dive",
-          "how-to-find": ""
+          "how-to-find": "Reward for defeating the Soul Master in the Soul Sanctum (City of Tears)."
         },
         {
           "name": "Descending Dark",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Descending_Dark",
-          "how-to-find": ""
+          "how-to-find": "Found on a snail shaman's corpse in Crystal Peak (Crystallised Mound)."
         },
         {
           "name": "Howling Wraiths",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Howling_Wraiths",
-          "how-to-find": ""
+          "how-to-find": "Found in the Overgrown Mound in Fog Canyon, near the entrance to the Queen's Gardens."
         },
         {
           "name": "Abyss Shriek",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Abyss_Shriek",
-          "how-to-find": ""
+          "how-to-find": "Obtained in the Abyss by standing on the pedestal in the southwest Abyss room and using Howling Wraiths to unlock the spell."
         },
         {
           "name": "Vengeful Spirit",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Vengeful_Spirit",
-          "how-to-find": ""
+          "how-to-find": "Given by a Snail Shaman in the Ancestral Mound in the Forgotten Crossroads."
         },
         {
           "name": "Shade Soul",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Shade_Soul",
-          "how-to-find": ""
+          "how-to-find": "Found behind a locked door in the Soul Sanctum (City of Tears); requires purchasing the Elegant Key from Sly (after the Shopkeeper's Key) and defeating the Soul Warrior in that room."
         }
       ]
     },
@@ -566,19 +566,19 @@
           "name": "Vessel Upgrade 1",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Vessel_Fragment",
-          "how-to-find": ""
+          "how-to-find": "Vessel fragments are obtained across Hallownest: some are sold by Sly, some are found in specific locations (Greenpath, Deepnest, King's Station, Stag Nest, Ancient Basin fountain), and one is given by the Seer for Essence. See the Vessel Fragment page for the full list."
         },
         {
           "name": "Vessel Upgrade 2",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Vessel_Fragment",
-          "how-to-find": ""
+          "how-to-find": "Vessel fragments are obtained across Hallownest: some are sold by Sly, some are found in specific locations (Greenpath, Deepnest, King's Station, Stag Nest, Ancient Basin fountain), and one is given by the Seer for Essence. See the Vessel Fragment page for the full list."
         },
         {
           "name": "Vessel Upgrade 3",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Vessel_Fragment",
-          "how-to-find": ""
+          "how-to-find": "Vessel fragments are obtained across Hallownest: some are sold by Sly, some are found in specific locations (Greenpath, Deepnest, King's Station, Stag Nest, Ancient Basin fountain), and one is given by the Seer for Essence. See the Vessel Fragment page for the full list."
         }
       ]
     },
@@ -590,43 +590,43 @@
           "name": "Elder Hu",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Elder_Hu",
-          "how-to-find": ""
+          "how-to-find": "Found at his memorial in the eastern Fungal Wastes; fight his spirit with the Dream Nail to collect Essence."
         },
         {
           "name": "Galien",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Galien",
-          "how-to-find": ""
+          "how-to-find": "Galien's corpse/spirit is found in the west part of Deepnest."
         },
         {
           "name": "Gorb",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Gorb",
-          "how-to-find": ""
+          "how-to-find": "Gorb's grave is located in the northeast part of the Howling Cliffs."
         },
         {
           "name": "Markoth",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Markoth",
-          "how-to-find": ""
+          "how-to-find": "Markoth's spirit appears beyond a Shade Gate; the Shade Cloak is needed to bypass the gate (or find an alternate route)."
         },
         {
           "name": "Marmu",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Marmu",
-          "how-to-find": ""
+          "how-to-find": "Marmu's spirit is found at a totem in the Queen's Gardens (west of the Stag Station)."
         },
         {
           "name": "No Eyes",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/No_Eyes",
-          "how-to-find": ""
+          "how-to-find": "No Eyes can be found inside the Stone Sanctuary in Greenpath."
         },
         {
           "name": "Xero",
           "percent": 1,
           "link": "https://hollowknight.wiki/w/Xero",
-          "how-to-find": ""
+          "how-to-find": "Xero's spirit is located in the west part of the Resting Grounds."
         }
       ]
     }
